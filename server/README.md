@@ -59,8 +59,3 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 ---
 
 <sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
-
-## See content in action by making an HTTP request:
-- To this URL: https://<YOUR_DOMAIN>/api/<YOUR_CT>
-- With the header: Authorization: bearer <YOUR_API_TOKEN>
-- [https://docs.strapi.io/dev-docs/api/rest#api-parameter](https://docs.strapi.io/dev-docs/api/rest#api-parameter)
