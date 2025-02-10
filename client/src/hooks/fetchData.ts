@@ -18,7 +18,7 @@ export async function getStrapiDataWithToken(endPoint: string) {
       },
     });
     const data = await response.json();
-    console.log(data, baseUrl + endPoint);
+    console.log(`Fetch data: `, data.data, baseUrl + endPoint);
     return data;
   } catch (error) {
     console.error(error);
